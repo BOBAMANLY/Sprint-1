@@ -7,8 +7,6 @@ This C++ program plays the card game known as Hi-Lo. A card is drawn and you wil
 
 This software was written so that I might be able to learn teh basic syntax and usage in the C++ language. This was a code that I had previously written in Python, but I thought that converting code that I understood would be beneficial for quick learning. Although I had the code written in another language, I had to convert some syntax and styling so that it would be compatible for a different coding language.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://youtu.be/gfdYnJrXzXY)
 
 # Development Environment
